@@ -1,0 +1,128 @@
+@import '../../vars.css';
+
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 49px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.typewriter {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.typewriterText {
+    background: linear-gradient(90deg, rgb(152, 47, 250) 40%,rgb(27, 1, 172) 80%,#441aff 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--color-text);
+    z-index: 1;
+}
+
+.title {
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 33px;
+    font-family: var(--font-roboto);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 80%, rgba(255, 255, 255, 0) 120%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.description {
+    font-size: 30px;
+    font-family: var(--font-roboto);
+    margin-top: 10px;
+    margin-bottom: 52px;
+    width: 85%;
+}
+
+.buttons {
+    display: flex;
+}
+
+.contactBtn {
+    text-decoration: none;
+    background-color: #04152d79;
+    /* #512d99 */
+    color: var(--color-text);
+    border-radius: 20px;
+    padding: 10px 25px;
+    box-shadow: 10px 5px 5px 0 var(--color-bg);
+    margin : 10px;
+}
+
+.heroImg {
+    width: 50%;
+    z-index: 1;
+    animation-name : floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+.contactBtn img {
+    height: 50px;
+    width: 50px;
+}
+
+@keyframes floating {
+    0% {
+        transform: translate(0, 0px);
+    }
+    50% {
+        transform: translate(0,10px);
+    }
+    100% {
+        transform: translate(0,0px);
+    }
+}
+
+.topBlur {
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    min-width: 350px;
+    min-height: 350px;
+    top : -246px;
+    left: -20vw;
+    border-radius: 764px;
+    background: rgba(25, 25, 109, 0.7);
+    filter: blur(100px);
+    z-index: 0;
+}
+
+.bottomBlur {
+    position: absolute;
+    width: 70vw;
+    height: 70vw;
+    min-width: 350px;
+    min-height: 250px;
+    top : 246px;
+    right: -25vw;
+    border-radius: 764px;
+    background: rgba(25, 25, 109, 0.7);
+    filter: blur(100px);
+    z-index: 0;
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+}

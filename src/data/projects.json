@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/myportfolio.png",
+    "description": "BharathCodes is a sleek, interactive website crafted with React, styled with CSS and bootstraped with Vite for lightning-fast performance. Dive in to explore my work, discover my expertise, and connect with me effortlessly.",
+    "skills": ["ReactJs", "CSS","Vite"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Memories Book",
+    "imageSrc": "projects/yourplaces.png",
+    "description": "Built with React, Node.js, Express, and MongoDB, it blends elegant frontend design with robust backend functionality. It's a platform for storytelling and community bonding through shared experiences of places that matter. Discover hidden gems and celebrate the diversity of our world, one place at a time.",
+    "skills": ["React", "Express", "Node","MongoDB","JWTAuth","CSS"],
+    "demo": "https://memories-book-app.vercel.app/",
+    "source": "https://github.com/tbharath03/MemoriesBook.git"
+  },
+  {
+    "title": "Mini-Database System",
+    "imageSrc": "projects/nitcbase.png",
+    "description": "NITCBase, relational database management system. Designed to store data and perform queries using SQL-like commands. The entire codebase was meticulously implemented in C++, adhering to industry-standard programming practices.",
+    "skills": ["C++", "OOPS", "SQL"],
+    "demo": "",
+    "source": "https://github.com/tbharath03/NITCBase.git"
+  },
+  {
+    "title": "Gamers Guild",
+    "imageSrc": "projects/gamersguild.png",
+    "description": "GamersGuild is a dynamic and interactive web application designed to help users discover and explore new games. Built using the powerful front-end technologies of React and Tailwind CSS, GamersGuild offers a sleek, responsive, and user-friendly interface that enhances the gaming discovery experience.",
+    "skills": ["React","TailwindCSS","Axios","Vite"],
+    "demo": "https://gamersguild.vercel.app/",
+    "source": "https://github.com/tbharath03/GamersGuild.git"
+  },
+  {
+    "title": "Paper-Conference",
+    "imageSrc": "projects/nitconf.png",
+    "description": "NITCONF is a paper conference website application. A full stack web application(REST APIs) built as part of my academic course. Developed with HTML, CSS, Javascript, spring boot, spring Data JPA, spring security, and MySQL.",
+    "skills": ["Spring boot","Java" ,"Javascript","MySQL" ,"HTML", "CSS"],
+    "demo": "",
+    "source": "https://github.com/tbharath03/SElab_P1.git"
+  }
+]

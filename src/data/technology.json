@@ -1,0 +1,30 @@
+[
+    {
+        "title": "VSCode",
+        "imageSrc": "technology/vscode.png"
+    },
+    {
+        "title": "Eclipse",
+        "imageSrc":"technology/eclipse.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc":"technology/git.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc":"technology/mysql.png"
+    },
+    {
+        "title": "Postman",
+        "imageSrc":"technology/postman.png"
+    },
+    {
+        "title": "Vite",
+        "imageSrc":"technology/Vite.png"
+    },
+    {
+        "title":"Axios",
+        "imageSrc":"technology/axios.png"
+    }
+]

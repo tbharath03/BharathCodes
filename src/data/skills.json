@@ -1,0 +1,51 @@
+[
+    {
+        "title":"C",
+        "imageSrc":"skills/c.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/c++.png"
+    },
+    {
+        "title":"Java",
+        "imageSrc":"skills/java.png"
+    },
+    {
+        "title": "Spring Boot",
+        "imageSrc": "skills/spring.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"skills/javascript.png"
+    },
+    {
+        "title":"TailwindCSS",
+        "imageSrc":"skills/tailwind.png"
+    },
+    {
+        "title": "ReactJs",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "NodeJs",
+        "imageSrc": "skills/node.png"
+    },
+    
+    {
+        "title":"ExpressJs",
+        "imageSrc":"skills/express.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    }
+]
