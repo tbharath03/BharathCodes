@@ -4,8 +4,8 @@
     "imageSrc": "projects/myportfolio.png",
     "description": "BharathCodes is a sleek, interactive website crafted with React, styled with CSS and bootstraped with Vite for lightning-fast performance. Dive in to explore my work, discover my expertise, and connect with me effortlessly.",
     "skills": ["ReactJs", "CSS","Vite"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://bharathcodes.vercel.app/",
+    "source": "https://www.github.com/tbharath03/BharathCodes.git"
   },
   {
     "title": "Memories Book",
