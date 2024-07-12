@@ -10,7 +10,7 @@ const Navbar = () => {
         <nav className={styles.navbar}>
             <a className={styles.title} href="/">
                 {/* {`/BharathCodes`} */}
-                <img src="/assets/logoinv.png" className={styles.logo} />
+                <img src={getImage("logoinv.png")} className={styles.logo} />
             </a>
             <div className={styles.menu}>
                 <img
