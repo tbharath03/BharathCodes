@@ -28,10 +28,6 @@
         "imageSrc":"skills/javascript.png"
     },
     {
-        "title":"TailwindCSS",
-        "imageSrc":"skills/tailwind.png"
-    },
-    {
         "title": "ReactJs",
         "imageSrc": "skills/react.png"
     },
@@ -47,5 +43,9 @@
     {
         "title": "MongoDB",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title":"TailwindCSS",
+        "imageSrc":"skills/tailwind.png"
     }
 ]
