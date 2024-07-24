@@ -26,5 +26,9 @@
     {
         "title":"Axios",
         "imageSrc":"technology/axios.png"
+    },
+    {
+        "title":"SwaggerUI",
+        "imageSrc":"technology/swaggerUI.png"
     }
 ]

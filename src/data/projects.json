@@ -35,7 +35,7 @@
     "title": "Paper-Conference",
     "imageSrc": "projects/nitconf.png",
     "description": "NITCONF is a paper conference website application. A full stack web application(REST APIs) built as part of my academic course. Developed with HTML, CSS, Javascript, spring boot, spring Data JPA, spring security, and MySQL.",
-    "skills": ["Spring boot","Java" ,"Javascript","MySQL" ,"HTML", "CSS"],
+    "skills": ["Spring boot","Java" ,"Javascript","MySQL" ,"HTML", "CSS", "SwaggerUI"],
     "demo": "",
     "source": "https://github.com/tbharath03/SElab_P1.git"
   }
